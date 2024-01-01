@@ -1,5 +1,9 @@
-function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
-}
+import Affirmation from "./components/Affirmation";
 
-export default App;
+export default function App() {
+  return (
+    <main className="p-16 h-screen bg-slate-900 text-blue-50">
+      <Affirmation />
+    </main>
+  );
+}
