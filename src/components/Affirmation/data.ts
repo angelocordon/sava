@@ -10,4 +10,5 @@ export default [
   "You make the world a better place.",
   "I like how your mind works!",
   "You have such a big heart.",
+  "All of your feelings matter",
 ];
